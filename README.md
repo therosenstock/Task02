@@ -16,3 +16,6 @@ Após pedir socorro, deu tudo certo! Morremos, mas passamos bem 🐛
 
 Falaaa galera, essa é minha simplória contribuição para Task02. Eu sou da trilha Back-End 🐼
 
+## Yuri
+
+Salve moços e moçoilas! Minha participação na task02 de Git. Sou da trilha QA 🙌
