@@ -2,4 +2,4 @@
 
 ## Antonio
 
-E aí, pessoal! Essa é minha participação na task02. Eu sou da trilha Back-end (Java ♥)
+E aí, pessoal! Essa é minha participação na task02. Eu sou da trilha Back-end (Java ♥).
