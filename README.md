@@ -7,3 +7,7 @@ E aí, pessoal! Essa é minha participação na task02. Eu sou da trilha Back-en
 ## Kirmct
 
 Salve galera! Minha participação na task02 de Git. Sou da trilha Back-end (Javinha ☕)
+
+## Fabiola
+
+Após pedir socorro, deu tudo certo! Morremos, mas passamos bem 🐛
